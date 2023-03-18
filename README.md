@@ -1,1 +1,1 @@
-# Assignment-19-Hanlding-Multiple-String-in-C
+# Assignment-19-Handling-Multiple-String-in-C
